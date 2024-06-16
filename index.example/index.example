@@ -1,0 +1,7 @@
+server {
+    listen 80;
+    server_name index.example;
+
+    root "C:/Users/alexf/Development/nginx-examples/index.example";
+    # index index.html;  # Optional
+}
